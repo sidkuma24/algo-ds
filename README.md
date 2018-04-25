@@ -1,2 +1,3 @@
-# Algorithms-Data-Structures
-Algorithms and Data Structures in c, c++ and java
+# Algorithms and Datas Structures
+
+Some of the common algorithms ana data sructures implemented in Java and Python
