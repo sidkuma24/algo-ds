@@ -1,3 +1,3 @@
 # Algorithms and Data Structures
 
-Some of the common algorithms ana data sructures implemented in Java and Python
+Some of the common algorithms and data structures implemented in Java and Python
